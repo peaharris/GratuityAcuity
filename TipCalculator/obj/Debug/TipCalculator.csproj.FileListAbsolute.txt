@@ -1,0 +1,6 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/TipCalculator/TipCalculator/obj/Debug/TipCalculator.csprojAssemblyReference.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/TipCalculator/TipCalculator/obj/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/TipCalculator/TipCalculator/bin/Debug/TipCalculator.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/TipCalculator/TipCalculator/bin/Debug/TipCalculator.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/TipCalculator/TipCalculator/obj/Debug/TipCalculator.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/TipCalculator/TipCalculator/obj/Debug/TipCalculator.pdb
