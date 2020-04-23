@@ -11,6 +11,7 @@ namespace TipCalculator
             PrintMenu();
             double tipPercent = GetTipPercent();
             CalculateTip(billAmount, tipPercent);
+            Console.WriteLine("Thanks for using the Tip Calculator!");
         }
 
         static double GetBillAmount()
@@ -88,7 +89,8 @@ namespace TipCalculator
         static void CalculateTip(double billAmount, double tipPercent)
         {
             double totalTip = billAmount * tipPercent;
-            Console.WriteLine($"The tip amount is: {totalTip}");
+            Console.WriteLine($"The tip amount is: ${totalTip}");
+            Console.WriteLine($"Your bill amount with tip totals to: ${totalTip + billAmount}");
         }
     }
 }
